@@ -68,7 +68,7 @@ a:hover {
 }
 
 nav li:hover {
-    color: black;
+    color: orange;
     border: solid 3px black;
     background-color: black;
 
